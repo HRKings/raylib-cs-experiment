@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaylibTest", "RaylibTest\RaylibTest.csproj", "{AEB5650B-83F4-4030-A7BA-30908EF971F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEB5650B-83F4-4030-A7BA-30908EF971F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB5650B-83F4-4030-A7BA-30908EF971F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB5650B-83F4-4030-A7BA-30908EF971F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB5650B-83F4-4030-A7BA-30908EF971F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
